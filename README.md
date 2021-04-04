@@ -1,7 +1,4 @@
 
-<!--
-**swrzalek/swrzalek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ![A](https://media.giphy.com/media/8OJdqYqN1Nii3UTD6l/giphy.gif)
 
 
