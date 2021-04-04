@@ -1,16 +1,16 @@
-### Hi there 👋
 
 <!--
 **swrzalek/swrzalek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![A](https://media.giphy.com/media/8OJdqYqN1Nii3UTD6l/giphy.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- :boom: Currently focused on Contactless Ordering System with queue optimalization named Waitless.
+- :rocket: Learning React ecosystem.
+- :eyes: I enjoy teaching others programming, hit me up if you need any help.
+- :speech_balloon: Reach me at s.wrzalek@gmail.com
+- ⚡Did you know that in javascript **for loop** is more efficent than **map/reduce/filter/find?**
+
+	![https://www.codewars.com/users/Kalmarson/badges/micro](https://www.codewars.com/users/Kalmarson/badges/micro)
+
+
