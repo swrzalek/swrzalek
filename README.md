@@ -2,7 +2,7 @@
 ![A](https://media.giphy.com/media/8OJdqYqN1Nii3UTD6l/giphy.gif)
 
 
-- :boom: Currently focused on Contactless Ordering System with queue optimalization named Waitless.
+- :boom: Currently focused on Contactless Ordering System with queue optimalization named [Waitless](https://github.com/waitless-app).
 - :rocket: Learning React ecosystem.
 - :eyes: I enjoy teaching others programming, hit me up if you need any help.
 - :speech_balloon: Reach me at s.wrzalek@gmail.com
