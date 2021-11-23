@@ -3,10 +3,7 @@
 
 
 - :boom: Currently focused on Contactless Ordering System with queue optimalization named [Waitless](https://github.com/waitless-app).
-- :rocket: Learning React ecosystem.
-- :eyes: I enjoy teaching others programming, hit me up if you need any help.
 - :speech_balloon: Reach me at s.wrzalek@gmail.com
-- ⚡Did you know that in javascript **for loop** is more efficent than **map/reduce/filter/find?**
 
 	![https://www.codewars.com/users/Kalmarson/badges/micro](https://www.codewars.com/users/Kalmarson/badges/micro)
 
